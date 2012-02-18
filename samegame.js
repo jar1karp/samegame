@@ -60,7 +60,7 @@ function render()
 		}
 	}
 	document.getElementById("score").innerHTML = "Score: " + score;
-	document.getElementById("high").innerHTML = "High: " + score;
+	document.getElementById("high").innerHTML = "High: " + high;
 }
 
 function mouseClick(event)
