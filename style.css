@@ -1,0 +1,39 @@
+body
+{
+	font-family: sans-serif;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+h1
+{
+	font-family: sans-serif;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+div.center
+{
+	text-align: center;
+}
+
+table.center
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+td.score
+{
+	text-align: left;
+	font-family: sans-serif;
+	color: #FFFFFF;
+}
+
+td.high
+{
+	text-align: right;
+	font-family: sans-serif;
+	color: #FFFFFF;
+}
+
